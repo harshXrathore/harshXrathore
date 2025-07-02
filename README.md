@@ -1,7 +1,8 @@
 ## Hi there 👋
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Hi+I'm+%F0%9F%92%BB+Harsh+Rathore;Cybersecurity+Enthusiast+%7C+Linux+Ninja;Offensive+Security+%7C+Toolsmith+%7C+Bug+Hunter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Hi+I'm+💻+Harsh+Rathore;Cybersecurity+Enthusiast+%7C+Linux+Ninja;Offensive+Security+%7C+Toolsmith+%7C+Bug+Hunter" alt="Typing SVG" />
 </div>
+
 
 ---
 <!--
