@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Hi+I'm+💻+Harsh+Rathore;Cybersecurity+Enthusiast+|+Linux+Ninja;Offensive+Security+|+Toolsmith+|+Bug+Hunter" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/harshXrathore/harshXrathore/main/typing.gif" alt="Typing Intro GIF" />
 </div>
 
 
