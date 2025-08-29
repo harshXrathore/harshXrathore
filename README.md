@@ -28,6 +28,12 @@
   <li><strong>Expertise</strong>: Web Application Security, Network Security, Vulnerability Analysis</li>
 </ul>
 
+<h2 align="left">🎓 Certifications & Learning</h2>
+
+- CEH v13 with AI  
+- HackTheBox: Active Learner  
+
+---
 <h2 align="left">GitHub Stats 👨‍💻</h2>
 <div align="center">
   <a href="https://github-readme-stats.vercel.app">
@@ -52,7 +58,6 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
   <img src="https://img.shields.io/badge/Metasploit-8A2BE2?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
 </div>
-
 
 
 <h2 align="left">💼 Connect with Me</h2>
