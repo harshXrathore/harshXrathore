@@ -48,7 +48,7 @@
 
 **`> Languages`**
 ```
-● Python     ████████░░  Expert
+● Python      ████████░░  Expert
 ● Bash        ███████░░░  Proficient  
 ● Java        █████░░░░░  Intermediate
 ● C           █████░░░░░  Intermediate
