@@ -48,8 +48,8 @@
 
 **`> Languages`**
 ```
-● Python      ████████░░  Expert
-● Bash        ███████░░░  Proficient  
+● Python      █████░░░░░  Intermediate
+● Bash        █████░░░░░  Intermediate  
 ● Java        █████░░░░░  Intermediate
 ● C           █████░░░░░  Intermediate
 ● SQL         ████░░░░░░  Comfortable
